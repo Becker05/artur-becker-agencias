@@ -1,0 +1,10 @@
+{
+  "name": "artur-becker-agencias",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Página de parceria técnica de rastreamento para agências.",
+  "scripts": {
+    "check": "node --check assets/config.js && node --check assets/main.js",
+    "start": "node server.cjs"
+  }
+}
